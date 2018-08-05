@@ -8,3 +8,5 @@ pre-made pastry
 8 Granny Smith apples
 
 Here will be the recipe for lisa
+
+After clonig from github
